@@ -1,3 +1,3 @@
-# Ave_Imperator
+# Hello, I'm Darko Stefanoski ( ˙ᵕ˙ )ﾉﾞ
 
-Hello!
+I like technology (most of the time) and programming!
