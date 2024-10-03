@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Darko Stefanoski (˶˙ᵕ˙~)ﾉﾞ</h1>
+<h1 align="center">Hi, I'm Darko Stefanoski (˶˙ᵕ˙˶)ﾉﾞ</h1>
 <h3 align="center">I like technology (most of the time) and programming!</h3>
 
 - 🔭 I’m currently working on [an e-commerce website](https://github.com/QuodImperator/scandiweb-Test)
