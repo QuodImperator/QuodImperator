@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Darko Stefanoski (˶˙ᵕ˙˶)ﾉﾞ</h1>
 <h3 align="center">I like technology (most of the time) and programming!</h3>
 
-- 🔭 I’m currently working on [an e-commerce website](https://github.com/QuodImperator/scandiweb-Test)
+- 🔭 I’m currently working on [a task management system](https://github.com/QuodImperator/task_management)
 
 - 🌱 I’m currently learning **Full-stack development**
 
